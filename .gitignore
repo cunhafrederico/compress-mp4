@@ -1,0 +1,7 @@
+.venv
+results/*
+input/*
+output/*
+*/.DS_Store
+.DS_Store
+**/__pycache__/*

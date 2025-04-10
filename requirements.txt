@@ -1,0 +1,4 @@
+ffmpeg==1.4
+ffmpeg-python==0.2.0
+robotframework==7.2.2
+setuptools==78.1.0
